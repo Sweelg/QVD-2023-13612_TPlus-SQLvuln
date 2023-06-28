@@ -35,7 +35,7 @@ POC
  python '.\QVD-2023-13612_SQL Injection Vulnerability.py' -u http://host
 ```
 
-![image-20230628001513660](D:\tools\GitHub-exp\QVD-2023-13612 用友畅捷通T SQL注入\img\4.png)
+![image-20230628001513660](https://github.com/Sweelg/QVD-2023-13612_TPlus-SQLvuln/raw/main/img/4.png)
 
 ```
  python '.\QVD-2023-13612_SQL Injection Vulnerability.py' -f .\url.txt -t 5 -o 1.txt
